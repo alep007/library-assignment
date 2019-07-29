@@ -12,3 +12,7 @@ src
   -> repositories
   -> test
   Main.java
+
+
+Disclaimer
+Since is not a big project is not neccesary to create extra branches.
